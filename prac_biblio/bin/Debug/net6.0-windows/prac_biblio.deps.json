@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "prac_biblio/1.0.0": {
+        "dependencies": {
+          "libex": "1.0.0"
+        },
+        "runtime": {
+          "prac_biblio.dll": {}
+        }
+      },
+      "libex/1.0.0": {
+        "runtime": {
+          "libex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prac_biblio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "libex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
